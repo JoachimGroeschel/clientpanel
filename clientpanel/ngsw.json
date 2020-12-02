@@ -1,0 +1,95 @@
+{
+  "configVersion": 1,
+  "timestamp": 1606919371370,
+  "index": "https://JoachimGroeschel.github.io/clientpanel/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://JoachimGroeschel.github.io/clientpanel/4.c42d0790d8d6c1ae55e2.js",
+        "https://JoachimGroeschel.github.io/clientpanel/favicon.ico",
+        "https://JoachimGroeschel.github.io/clientpanel/index.html",
+        "https://JoachimGroeschel.github.io/clientpanel/main.7e9433b494f42888b6f6.js",
+        "https://JoachimGroeschel.github.io/clientpanel/manifest.webmanifest",
+        "https://JoachimGroeschel.github.io/clientpanel/polyfills.bf99d438b005d57b2b31.js",
+        "https://JoachimGroeschel.github.io/clientpanel/runtime.ed9d973e507d2f11f57e.js",
+        "https://JoachimGroeschel.github.io/clientpanel/scripts.7bf1977abed070983d5c.js",
+        "https://JoachimGroeschel.github.io/clientpanel/styles.7abd483b41903d07e197.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-128x128.png",
+        "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-144x144.png",
+        "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-152x152.png",
+        "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-192x192.png",
+        "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-384x384.png",
+        "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-512x512.png",
+        "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-72x72.png",
+        "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-96x96.png",
+        "https://JoachimGroeschel.github.io/clientpanel/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+        "https://JoachimGroeschel.github.io/clientpanel/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+        "https://JoachimGroeschel.github.io/clientpanel/fontawesome-webfont.8b43027f47b20503057d.eot",
+        "https://JoachimGroeschel.github.io/clientpanel/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+        "https://JoachimGroeschel.github.io/clientpanel/fontawesome-webfont.f691f37e57f04c152e23.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://JoachimGroeschel.github.io/clientpanel/4.c42d0790d8d6c1ae55e2.js": "b4655f61bdda367d592d3ec30cbbcbaf8bccec6e",
+    "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://JoachimGroeschel.github.io/clientpanel/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://JoachimGroeschel.github.io/clientpanel/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://JoachimGroeschel.github.io/clientpanel/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "https://JoachimGroeschel.github.io/clientpanel/fontawesome-webfont.20fd1704ea223900efa9.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "https://JoachimGroeschel.github.io/clientpanel/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "https://JoachimGroeschel.github.io/clientpanel/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "https://JoachimGroeschel.github.io/clientpanel/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "https://JoachimGroeschel.github.io/clientpanel/index.html": "5d75175296bc25bb7af3ae80e7f92e367bbcd5d9",
+    "https://JoachimGroeschel.github.io/clientpanel/main.7e9433b494f42888b6f6.js": "b2d504e4a587a4a64c451a13c8210c2706aa23a6",
+    "https://JoachimGroeschel.github.io/clientpanel/manifest.webmanifest": "4f10c6aeadf1f1661261f65df11c0ff6b0f656c3",
+    "https://JoachimGroeschel.github.io/clientpanel/polyfills.bf99d438b005d57b2b31.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "https://JoachimGroeschel.github.io/clientpanel/runtime.ed9d973e507d2f11f57e.js": "fa97d56472c29bf5f245e31d6cf024fe16376945",
+    "https://JoachimGroeschel.github.io/clientpanel/scripts.7bf1977abed070983d5c.js": "5a45ad46d52076da521d6ea5f48e985e95b88c13",
+    "https://JoachimGroeschel.github.io/clientpanel/styles.7abd483b41903d07e197.css": "7108c7b65f6352fd41ad3e414244f8d1faa58596"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
